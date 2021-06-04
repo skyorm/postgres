@@ -1,0 +1,4 @@
+github.com/lib/pq v1.10.2 h1:AqzbZs4ZoCBp+GtejcpCpcxM3zlSMx29dXbUSeVtJb8=
+github.com/lib/pq v1.10.2/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/skyorm/skyorm v0.0.0-20210604132240-d470da3a7314 h1:CD8DC+2K1C1WIsHoSEfZ69DWOS7hYTLUj7W31kcKxUM=
+github.com/skyorm/skyorm v0.0.0-20210604132240-d470da3a7314/go.mod h1:WQgVOZbqxJeLM9wo9LsNBHjs+Rj8VCu3uUMjfZciXCE=
